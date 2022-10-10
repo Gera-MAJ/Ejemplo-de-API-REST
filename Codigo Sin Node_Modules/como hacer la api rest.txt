@@ -1,0 +1,18 @@
+Para realizar la API REST
+
+Primero que todo, necesito crear la aplicacion, para eso utilizamos el siguiente comando en la consola.
+
+npm init -y
+
+Con esto podemos crear la API. Luego tengo que instalar lo siguiente:
+
+npm i express
+
+Y luego vamos a instalar para usar la base de datos mysql
+
+npm i mysql
+
+y luego tenemos que estableces la conexion. 
+
+Luego debemos intalar el nodemon, para poder utilizarlo. Luego de instalar el NODEMON, tendremos que ejecutarlo desde consola para que este se mantenga actualizando la API
+
